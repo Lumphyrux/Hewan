@@ -17,10 +17,5 @@ namespace Hewan
         {
             Console.WriteLine("Sat set sat set");
         }
-
-        public virtual void Bersuara()
-        {
-            Console.WriteLine("Berkicau");
-        }
     }
 }

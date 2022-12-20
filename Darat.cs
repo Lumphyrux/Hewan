@@ -17,10 +17,5 @@ namespace Hewan
         {
             Console.WriteLine("Step step step step");
         }
-
-        public virtual void Bersuara()
-        {
-            Console.WriteLine("Kresek kresek");
-        }
     }
 }

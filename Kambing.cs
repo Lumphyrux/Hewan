@@ -8,9 +8,5 @@ namespace Hewan
 {
     internal class Kambing : Darat
     {
-        public override void Bersuara()
-        {
-            Console.WriteLine("Mengembik");
-        }
     }
 }

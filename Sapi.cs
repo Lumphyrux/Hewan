@@ -8,9 +8,5 @@ namespace Hewan
 {
     internal class Sapi : Darat
     {
-        public override void Bersuara()
-        {
-            Console.WriteLine("Mengemu");
-        }
     }
 }

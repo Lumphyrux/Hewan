@@ -18,10 +18,6 @@
             elang.Terbang();
             hiuPutih.Bernafas();
             paus.Berenang();
-            Console.Write("Suara kambing adalah ");
-            kambing.Bersuara();
-            Console.Write("Suara sapi adalah ");
-            sapi.Bersuara();
         }
     }
 }
