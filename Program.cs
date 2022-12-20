@@ -37,7 +37,9 @@ namespace Hewan
 
             Presiden presiden3 = new Presiden(10, "Terakhir", new DateTime(1977,7,17), "Cifinal", "0544242432", 9990000000, "Kodehome", new List<Manager> { manager3,manager32,manager33 });
 
+            programmer1.Introduction();
             managers2.Introduction();
+            presiden3.Introduction();
         }
 
         static void JalankanHewan()
