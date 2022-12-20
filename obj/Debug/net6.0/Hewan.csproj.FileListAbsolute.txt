@@ -1,0 +1,15 @@
+C:\Users\Lumphyrux\Documents\GitHub\ProjekHewan\Hewan\bin\Debug\net6.0\Hewan.exe
+C:\Users\Lumphyrux\Documents\GitHub\ProjekHewan\Hewan\bin\Debug\net6.0\Hewan.deps.json
+C:\Users\Lumphyrux\Documents\GitHub\ProjekHewan\Hewan\bin\Debug\net6.0\Hewan.runtimeconfig.json
+C:\Users\Lumphyrux\Documents\GitHub\ProjekHewan\Hewan\bin\Debug\net6.0\Hewan.dll
+C:\Users\Lumphyrux\Documents\GitHub\ProjekHewan\Hewan\bin\Debug\net6.0\Hewan.pdb
+C:\Users\Lumphyrux\Documents\GitHub\ProjekHewan\Hewan\obj\Debug\net6.0\Hewan.csproj.AssemblyReference.cache
+C:\Users\Lumphyrux\Documents\GitHub\ProjekHewan\Hewan\obj\Debug\net6.0\Hewan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lumphyrux\Documents\GitHub\ProjekHewan\Hewan\obj\Debug\net6.0\Hewan.AssemblyInfoInputs.cache
+C:\Users\Lumphyrux\Documents\GitHub\ProjekHewan\Hewan\obj\Debug\net6.0\Hewan.AssemblyInfo.cs
+C:\Users\Lumphyrux\Documents\GitHub\ProjekHewan\Hewan\obj\Debug\net6.0\Hewan.csproj.CoreCompileInputs.cache
+C:\Users\Lumphyrux\Documents\GitHub\ProjekHewan\Hewan\obj\Debug\net6.0\Hewan.dll
+C:\Users\Lumphyrux\Documents\GitHub\ProjekHewan\Hewan\obj\Debug\net6.0\refint\Hewan.dll
+C:\Users\Lumphyrux\Documents\GitHub\ProjekHewan\Hewan\obj\Debug\net6.0\Hewan.pdb
+C:\Users\Lumphyrux\Documents\GitHub\ProjekHewan\Hewan\obj\Debug\net6.0\Hewan.genruntimeconfig.cache
+C:\Users\Lumphyrux\Documents\GitHub\ProjekHewan\Hewan\obj\Debug\net6.0\ref\Hewan.dll
