@@ -4,18 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Hewan
+namespace Hewan.Hewan.Habitat
 {
-    internal abstract class Udara : IHewan
+    internal abstract class Air : IHewan
     {
         public void Bernafas()
         {
-            Console.WriteLine("Udara Segar");
+            Console.WriteLine("Help im under the water");
         }
 
-        public void Terbang()
+        public void Berenang()
         {
-            Console.WriteLine("Sat set sat set");
+            Console.WriteLine("Blubub blubub");
         }
     }
 }

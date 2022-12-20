@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Hewan.Hewan.Habitat;
 
-namespace Hewan
+namespace Hewan.Hewan.Binatang
 {
-    internal class Paus : Air
+    internal class Elang : Udara
     {
-
     }
 }

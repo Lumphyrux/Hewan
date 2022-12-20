@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Hewan.Hewan.Habitat;
 
-namespace Hewan
+namespace Hewan.Hewan.Binatang
 {
-    internal interface IHewan
+    internal class Paus : Air
     {
-        public void Bernafas();
 
     }
 }

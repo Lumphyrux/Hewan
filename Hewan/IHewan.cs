@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Hewan
+namespace Hewan.Hewan
 {
-    internal class Beo : Udara
+    internal interface IHewan
     {
+        public void Bernafas();
 
     }
 }
